@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install and configure mongoDB v4.2.6
+# Install and configure mongoDB shell v4.2.6
 # Add public key
 wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
 # Associate PATH URL to download
